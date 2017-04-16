@@ -1,5 +1,5 @@
 {
-    "name": "zizaco/entrust",
+    "name": "jmora7/entrust",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
@@ -45,6 +45,5 @@
         "classmap": [
             "tests/Middleware/MiddlewareTest.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
